@@ -1,5 +1,5 @@
 
-# [AInsightHub]
+# AInsightHub
 
 AI-powered platform to upload, organize, and search your documents—PDFs, web pages, and more.
 
