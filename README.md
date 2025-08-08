@@ -20,13 +20,11 @@ text
 2. Install dependencies:
 npm install # or: pip install -r requirements.txt
 
-text
 3. Set up your `.env` file (see `.env.example`).
 
 4. Start the app:
 npm run dev # or: python app.py
 
-text
 5. Open your browser at `http://localhost:3000`
 
 ---
