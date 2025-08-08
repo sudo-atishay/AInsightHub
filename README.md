@@ -16,7 +16,6 @@ AI-powered platform to upload, organize, and search your documents—PDFs, web p
 1. Clone the repo:
 git clone https://github.com/your-username/your-repo.git cd your-repo
 
-text
 2. Install dependencies:
 npm install # or: pip install -r requirements.txt
 
